@@ -1,0 +1,6 @@
+title: "Beautiful new website"
+base_url: "/geo-spatial.org" # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: "page"
